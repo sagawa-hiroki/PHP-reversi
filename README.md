@@ -7,4 +7,4 @@ PHPで遊べるリバーシを作成しました。
 DocumentRoot に Reversi.php を置いてブラウザでアクセスするとゲーム開始です。
 
 ## Demo
-[PHP-reversi Demo Page](https://fierce-coast-42853.herokuapp.com)
+[PHP-reversi Demo Page](https://php-reversi.herokuapp.com)
