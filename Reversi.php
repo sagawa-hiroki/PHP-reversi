@@ -54,6 +54,7 @@ class Reversi
     private $enemyStoneColor        = self::WHITE;          // 相手の石の色
     private $blackSetStonePositions = [];                   // 黒石が置くとこの出来る場所
     private $whiteSetStonePositions = [];                   // 白石が置くことのできる場所
+    private $move                   = self::BLACK;          // 手番の色
 
     /**
      * mainメソッド
